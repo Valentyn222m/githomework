@@ -1,5 +1,2 @@
 # githomework
-
-
-
-Hello world!!!
+Hello gilka2!
